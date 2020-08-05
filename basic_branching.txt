@@ -3,3 +3,5 @@ To create a new branch and switch to it at the same time, you can run the git ch
 $ git checkout -b iss53
 
 Next I'm gonna try git push --set-upstream origin <branch>
+
+OK, it worked.
